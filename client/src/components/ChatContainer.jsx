@@ -20,7 +20,6 @@ const ChatContainer = () => {
   }
 }, [selectedUser]);
 
-
   const [input, setInput] = useState("");
   const scrollEnd = useRef();
 
