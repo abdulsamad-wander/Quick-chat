@@ -13,12 +13,9 @@ This is a full-stack real-time chat application built using the MERN stack. It a
 
 📁 Media Sharing : Send and receive 
 
-Text messages
-
-Images
-
-Videos
-
+Text messages,
+Images,
+Videos,
 Files
 
 🟢 Online Status Indicator : See which users are currently online in real-time
@@ -69,4 +66,4 @@ Socket.IO ensures instant communication and online status updates
 <img width="1650" height="838" alt="Screenshot 2026-04-27 101824" src="https://github.com/user-attachments/assets/44485485-6e82-496f-93c6-a195236770da" />
 
 
-<img width="973" height="640" alt="Screenshot 2026-04-27 101650" src="https://github.com/user-attachments/assets/4bf0b3bd-fbe4-405c-a2cc-08ed16606e21" />
+<img width="1492" height="842" alt="image" src="https://github.com/user-attachments/assets/d0b130e7-3c73-43c0-ac5d-f65a52283196" />
