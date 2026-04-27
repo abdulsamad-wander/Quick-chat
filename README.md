@@ -5,10 +5,10 @@
 This is a full-stack real-time chat application built using the MERN stack. It allows users to communicate instantly through text, media, and files, with live online status and user profile customization.
 
 ✨ Features
-🔐 Authentication System : User signup & login functionality
+🔐 Authentication System : User signup & login functionality, 
                            Secure authentication and session handling
 
-💬 Real-Time Messaging : One-to-one chat using Socket.IO
+💬 Real-Time Messaging : One-to-one chat using Socket.IO, 
                          Instant message delivery without page reload
 
 📁 Media Sharing : Send and receive 
@@ -23,7 +23,7 @@ Files
 
 🟢 Online Status Indicator : See which users are currently online in real-time
 
-👤 User Profiles : Update profile picture
+👤 User Profiles : Update profile picture, 
                     Edit name and bio ("About" section)
 
 
