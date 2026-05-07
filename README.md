@@ -76,7 +76,6 @@ Users can send and receive:
 <br/>
 
 <img width="1650" height="838" alt="Screenshot 2026-04-27 101824" src="https://github.com/user-attachments/assets/44485485-6e82-496f-93c6-a195236770da" />
-
 <br/>
 
 <img width="1492" height="842" alt="image" src="https://github.com/user-attachments/assets/d0b130e7-3c73-43c0-ac5d-f65a52283196" />
